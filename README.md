@@ -3,7 +3,7 @@
 ![My Stack](https://github.com/Jaykef/iBiteApp/blob/main/static/img/Image%202022-4-3%20at%202.11%20PM%202.JPG)
 
 ### Latest Projects
-![Project 1](https://github.com/Jaykef/Jaykef/blob/main/2.png)
+![Project 1](https://github.com/Jaykef/Jaykef/blob/main/1.png)
 
 ![Project 2](https://github.com/Jaykef/Jaykef/blob/main/3.png)
 
