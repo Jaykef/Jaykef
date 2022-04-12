@@ -13,6 +13,10 @@
 
 ![Project 5](https://github.com/Jaykef/Jaykef/blob/main/7.png)
 
+![Project 6](https://github.com/Jaykef/Jaykef/blob/main/8.png)
+
+![Project 5](https://github.com/Jaykef/Jaykef/blob/main/9.png)
+
 <!--
 **Jaykef/Jaykef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
