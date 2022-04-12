@@ -17,6 +17,8 @@
 
 ![Project 5](https://github.com/Jaykef/Jaykef/blob/main/9.png)
 
+### Language Stats
+[!Jaykef's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaykef)](https://github.com/jaykef/github-readme-stats)
 <!--
 **Jaykef/Jaykef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
