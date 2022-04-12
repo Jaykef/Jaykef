@@ -3,15 +3,15 @@
 ![My Stack](https://github.com/Jaykef/iBiteApp/blob/main/static/img/Image%202022-4-3%20at%202.11%20PM%202.JPG)
 
 #### Latest Projects
-![My Stack](https://github.com/Jaykef/iBiteApp/blob/main/static/img/3%202.PNG)
+![Project 1](https://github.com/Jaykef/iBiteApp/blob/main/static/img/3%202.PNG)
 
-![My Stack](https://github.com/Jaykef/iBiteApp/blob/main/static/img/4.PNG)
+![Project 2](https://github.com/Jaykef/iBiteApp/blob/main/static/img/4.PNG)
 
-![My Stack](https://github.com/Jaykef/iBiteApp/blob/main/static/img/5%202.PNG)
+![Project 3](https://github.com/Jaykef/iBiteApp/blob/main/static/img/5%202.PNG)
 
-![My Stack](https://github.com/Jaykef/iBiteApp/blob/main/static/img/6.PNG)
+![Project 4](https://github.com/Jaykef/iBiteApp/blob/main/static/img/6.PNG)
 
-![My Stack](https://github.com/Jaykef/iBiteApp/blob/main/static/img/7%202.PNG)
+![Project 5](https://github.com/Jaykef/iBiteApp/blob/main/static/img/7%202.PNG)
 
 <!--
 **Jaykef/Jaykef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
