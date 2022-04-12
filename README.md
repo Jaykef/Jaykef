@@ -18,7 +18,7 @@
 ![Project 5](https://github.com/Jaykef/Jaykef/blob/main/9.png)
 
 ### Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykef&langs_count=8&show_icons=true)](https://github.com/Jaykef/github-readme-radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykef&langs_count=8&show_icons=true&theme=radical)](https://github.com/Jaykef/github-readme)
 
 ![Jaykef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaykef&show_icons=true&theme=radical)
 
