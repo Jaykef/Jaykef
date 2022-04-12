@@ -2,7 +2,7 @@
 
 ![My Stack](https://github.com/Jaykef/Jaykef/blob/main/bio.png)
 
-<!--### Latest Projects
+### Latest Projects
 ![Project 1](https://github.com/Jaykef/Jaykef/blob/main/3.png)
 
 ![Project 2](https://github.com/Jaykef/Jaykef/blob/main/4.png)
@@ -19,7 +19,7 @@
 
 
 
-
+<!--
 **Jaykef/Jaykef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
