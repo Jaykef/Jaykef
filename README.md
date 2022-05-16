@@ -1,6 +1,6 @@
 ### Hi there, I'm Jaward (Jaykef)👋
 
-![My Stack](https://github.com/Jaykef/Jaykef/blob/main/bio.png)
+![My Stack](https://github.com/Jaykef/Jaykef/blob/main/jay.png)
 
 
 
