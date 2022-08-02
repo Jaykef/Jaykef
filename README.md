@@ -3,7 +3,7 @@
 ![My Stack](https://github.com/Jaykef/Jaykef/blob/main/profile.png)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykef&layout=compact)](https://github.com/Jaykef/github-readme-stats)
 
 <!--
 **Jaykef/Jaykef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
