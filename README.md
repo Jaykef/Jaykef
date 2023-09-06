@@ -1,7 +1,6 @@
 ### Hi there, I'm Jaward (Jaykef苏杰) it's all down here👇🏽👇🏽
 
-<img src="<img width="1600" alt="Screenshot 2023-09-06 at 10 03 48" src="https://github.com/Jaykef/Jaykef/assets/11355002/abd42142-0ded-4554-9efd-da74c9ccd2eb">
-" />
+<img width="1600" alt="Screenshot 2023-09-06 at 10 03 48" src="https://github.com/Jaykef/Jaykef/assets/11355002/abd42142-0ded-4554-9efd-da74c9ccd2eb">
 
 
 <!--
