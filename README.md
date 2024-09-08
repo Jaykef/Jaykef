@@ -1,6 +1,6 @@
 ### Hi there, I'm Jaward (Jaykef苏杰) it's all down here👇🏽👇🏽
 
-<img width="1600" alt="Screenshot 2023-09-06 at 10 03 48" src="2024_cover.png">
+<img width="1600" alt="Screenshot 2023-09-06 at 10 03 48" src="profile_cover.png">
 
 
 <!--
