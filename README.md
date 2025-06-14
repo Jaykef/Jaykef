@@ -1,4 +1,4 @@
-## 👋 Hi, I’m **Jaward Sesay**
+## 👋 Hi, I’m **Jaward Sesay (苏杰)**
 
 I'm a CS grad student at Beijing Institute of Technology with focus on AI/ML Research – specifically, working on Adaptive Reasoning Agents and LLMs. I had the honour of co-authoring my first paper (**[AutoAgents](https://www.ijcai.org/proceedings/2024/0003.pdf)**) with leading researchers, the paper was later accepted at **IJCAI 2024**. I am a devoted open-source/open-science contributor with projects that the open-source community loves (**[GitHub](https://github.com/Jaykef/ai-algorithms)** | **[HuggingFace](https://huggingface.co/Jaward)**). I’m currently building my first AI startup **[Lectūra Labs](https://lecturalabs.com/)** — focused on AI-native tools and models that empower individual learners to master self-taught skills. My AI journey began after watching **[Andrej Karpathy](https://karpathy.ai/)**'s ["Neural Networks - Zero to Hero"](https://karpathy.ai/zero-to-hero.html) — he's been my role-model/sensei ever since. I often post about my work on [Twitter](https://x.com/Jaykef_) and [Huggingface](https://huggingface.co/Jaward).
 
