@@ -6,12 +6,52 @@ AI/ML Researcher working on autonomous agents, large language models, reinforcem
 
 ## 📚 Publications
 
-| ![AutoAgents](https://raw.githubusercontent.com/Jaykef/Jaykef/main/assets/autoagents.jpeg) | ![Voila](https://raw.githubusercontent.com/Jaykef/Jaykef/main/assets/voila.jpeg) | ![LecturaAgents](https://github.com/Jaykef/Jaykef/blob/main/assets/lectura.png) | 
-|:---:|:---:|:---:|
-| **AutoAgents: A Framework for Automatic Agent Generation**<br> <sub><i>Guangyao Chen, Siwei Dong, Yu Shu, Ge Zhang, <b><span style="color:#2ecc71">Jaward Sesay</span></b>, Börje Karlsson, Jie Fu, Yemin Shi</i></sub><br>[📄 Paper](https://www.ijcai.org/proceedings/2024/0003.pdf) \| [💻 Code](https://github.com/Link-AGI/AutoAgents) \| [IJCAI 2024](https://www.ijcai.org/proceedings/2024/3) | **Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**<br> <sub><i>Yemin Shi, Yu Shu, Siwei Dong, Guangyi Liu, <b><span style="color:#2ecc71">Jaward Sesay</span></b>, Jingwen Li, Zhiting Hu</i></sub><br>[📄 Paper](https://arxiv.org/abs/2505.02707) \| [🤗 Models](https://huggingface.co/collections/maitrix-org/voila-67e0d96962c19f221fc73fa5) \| [💻 Code](https://github.com/maitrix-org/Voila) \| [🤗 Demo](https://huggingface.co/spaces/maitrix-org/Voila-demo) | **LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching**<br> <sub><i><b><span style="color:#2ecc71">Jaward Sesay</span></b>, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Börje F. Karlsson</i></sub><br>[📄 Paper](https://arxiv.org/abs/2606.16428) \| [💻 Data](https://huggingface.co/datasets/Jaward/lectura-agents-data) \| [Demo](https://huggingface.co/posts/Jaward/866256327526192) |
-| ![HandwritingAgent](https://github.com/Jaykef/Jaykef/blob/main/assets/handwritingagent.png) |  |  |
-| **HandwritingAgent: Language-Driven Handwriting Synthesis in Scalable Vector Space**<br> <sub><i><b><span style="color:#2ecc71">Jaward Sesay</span></b>, Yue Yu, Börje F. Karlsson</i></sub><br>[📄 Paper](https://arxiv.org/abs/2606.18788) \| [💻 Code](https://github.com/Jaykef/HandwritingAgent) \| [Demo](https://huggingface.co/datasets/Jaward/lectura-agents-data) |  |  |
-
+<table style="table-layout:fixed; width:100%;">
+  <tr>
+    <td width="33.33%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Jaykef/Jaykef/main/assets/lectura.png" alt="LectūraAgents" style="width:100%; aspect-ratio:210/297; object-fit:contain;"><br>
+      <b>LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching</b><br>
+      <sub><i><b><span style="color:#2ecc71">Jaward Sesay</span></b>, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Börje F. Karlsson</i></sub><br>
+      <a href="https://arxiv.org/abs/2606.16428">📄 Paper</a> |
+      <a href="https://huggingface.co/datasets/Jaward/lectura-agents-data">💻 Data</a> |
+      <a href="https://huggingface.co/posts/Jaward/866256327526192">Demo</a>
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Jaykef/Jaykef/main/assets/handwritingagent.png" alt="HandwritingAgent" style="width:100%; aspect-ratio:210/297; object-fit:contain;"><br>
+      <b>HandwritingAgent: Language-Driven Handwriting Synthesis in Scalable Vector Space</b><br>
+      <sub><i><b><span style="color:#2ecc71">Jaward Sesay</span></b>, Yue Yu, Börje F. Karlsson</i></sub><br>
+      <a href="https://arxiv.org/abs/2606.18788">📄 Paper</a> |
+      <a href="https://github.com/Jaykef/HandwritingAgent">💻 Code</a> |
+      <a href="https://huggingface.co/datasets/Jaward/lectura-agents-data">Demo</a>
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Jaykef/Jaykef/main/assets/autoagents.jpeg" alt="AutoAgents" style="width:100%; aspect-ratio:210/297; object-fit:contain;"><br>
+      <b>AutoAgents: A Framework for Automatic Agent Generation</b><br>
+      <sub><i>Guangyao Chen, Siwei Dong, Yu Shu, Ge Zhang, <b><span style="color:#2ecc71">Jaward Sesay</span></b>, Börje Karlsson, Jie Fu, Yemin Shi</i></sub><br>
+      <a href="https://www.ijcai.org/proceedings/2024/0003.pdf">📄 Paper</a> |
+      <a href="https://github.com/Link-AGI/AutoAgents">💻 Code</a> |
+      <a href="https://www.ijcai.org/proceedings/2024/3">IJCAI 2024</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Jaykef/Jaykef/main/assets/voila.jpeg" alt="Voila" style="width:100%; aspect-ratio:210/297; object-fit:contain;"><br>
+      <b>Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play</b><br>
+      <sub><i>Yemin Shi, Yu Shu, Siwei Dong, Guangyi Liu, <b><span style="color:#2ecc71">Jaward Sesay</span></b>, Jingwen Li, Zhiting Hu</i></sub><br>
+      <a href="https://arxiv.org/abs/2505.02707">📄 Paper</a> |
+      <a href="https://huggingface.co/collections/maitrix-org/voila-67e0d96962c19f221fc73fa5">🤗 Models</a> |
+      <a href="https://github.com/maitrix-org/Voila">💻 Code</a> |
+      <a href="https://huggingface.co/spaces/maitrix-org/Voila-demo">🤗 Demo</a>
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Jaykef/Jaykef/main/assets/ddohuman.png" alt="DDODHuman" style="width:100%; aspect-ratio:210/297; object-fit:contain;"><br>
+      <b>DDODHuman: Dual Decoupling Online Detailed Dynamic Monocular Human Reconstruction based on 3D Gaussian Splatting</b><br>
+      <sub><i>Yue Yu, Jincong Li, Cheng Wang, <b><span style="color:#2ecc71">Jaward Sesay</span></b></i></sub><br>
+      <a href="https://scholar.google.com/scholar?oi=bibs&cluster=7756166988823208203&btnI=1&hl=en">📄 Paper</a>
+    </td>
+    <td width="33.33%" valign="top" align="center"></td>
+  </tr>
+</table>
 
 
 
