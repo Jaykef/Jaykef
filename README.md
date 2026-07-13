@@ -9,7 +9,7 @@ AI/ML Researcher working on domain-specific Recursive Self-Improvement methods f
 <table style="table-layout:fixed; width:100%;">
   <tr>
     <td width="33.33%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Jaykef/Jaykef/main/assets/lectura.png" alt="LectūraAgents" style="width:100%; aspect-ratio:210/297; object-fit:contain;"><br>
+      <img src="https://raw.githubusercontent.com/Jaykef/Jaykef/main/assets/lecturapaper.png" alt="LectūraAgents" style="width:100%; aspect-ratio:210/297; object-fit:contain;"><br>
       <b>LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching</b><br>
       <sub><i><b><span style="color:#2ecc71">Jaward Sesay</span></b>, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Börje F. Karlsson</i></sub><br>
       <a href="https://arxiv.org/abs/2606.16428">📄 Paper</a> |
