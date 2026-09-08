@@ -22,7 +22,7 @@ AI/ML Researcher working on domain-specific Recursive Self-Improvement methods f
       <sub><i><b><span style="color:#2ecc71">Jaward Sesay</span></b>, Yue Yu, Börje F. Karlsson</i></sub><br>
       <a href="https://arxiv.org/abs/2606.18788">📄 Paper</a> |
       <a href="https://github.com/Jaykef/HandwritingAgent">💻 Code</a> |
-      <a href="https://huggingface.co/datasets/Jaward/lectura-agents-data">Demo</a>
+      <a href="https://github.com/Jaykef/HandwritingAgent">Demo</a>
     </td>
     <td width="33.33%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Jaykef/Jaykef/main/assets/autoagents.jpeg" alt="AutoAgents" style="width:100%; aspect-ratio:210/297; object-fit:contain;"><br>
