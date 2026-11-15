@@ -4,7 +4,7 @@ Early career AI Research Scientist working on Recursive Self-Improvement (RSI) f
 
 ---
 
-## 📚 Papers
+## 📚 Selected Papers
 
 <table style="table-layout:fixed; width:100%;">
   <tr>
